@@ -7,7 +7,6 @@ Userhub is a web-based application developed using HTML, CSS, and Servlets in a 
 - **User Sign-Up**: Users can create an account by filling out a registration form.
 - **User Sign-In**: Existing users can log in using their registered credentials.
 - **Form Validation**: Basic client-side validation using HTML5 and CSS to ensure proper input before submitting.
-- **Session Management**: Maintains user sessions after login using Servlets.
 
 ## Technologies Used
 
